@@ -5,7 +5,10 @@ juegas contra un bot programado el cual tiene distintas estrategias por default.
 
 -el contenido que tiene es:
 
-°un tablero de ajedrez
-°las piezas blancas y negras del ajedrez acomodado respectivamente con las reglas del juego
-°un letrero que dice "ganaste"
-°otro letrero que dice "perdiste"
+°un tablero de ajedrez.
+
+°las piezas blancas y negras del ajedrez acomodado respectivamente con las reglas del juego.
+
+°un letrero que dice "ganaste".
+
+°otro letrero que dice "perdiste".
